@@ -1,6 +1,4 @@
 const targetNode = document;
-    // document.getElementById(divID).style.top = "20px";
-
 const config = { subtree: true, attributes: true, };
 const callback = function(mutations, observer) {
     //  write code here 
